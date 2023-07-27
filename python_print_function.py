@@ -1,4 +1,3 @@
-#Problem: https://www.hackerrank.com/challenges/py-hello-world/problem
 
 
 n = int(input())

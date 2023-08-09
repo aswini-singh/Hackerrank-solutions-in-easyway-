@@ -28,3 +28,7 @@ else:
 
 # Print the formatted day of the week
 print("The day of the week is:", colored_day)
+
+
+
+

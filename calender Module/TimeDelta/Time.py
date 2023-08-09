@@ -23,7 +23,7 @@ if __name__ == '__main__':
         t1 = input()
 
         t2 = input()
-
+        
         delta = time_delta(t1, t2)
 
         fptr.write(delta + '\n')
